@@ -40,7 +40,7 @@ After starting the application, just navigate to http://127.0.0.1:8000/docs/ and
 
 # Docker image
 
-The production docker image can be pulled from
+The production docker image can be pulled from:
 
 https://hub.docker.com/repository/docker/erickfis/stock-scrapper
 
